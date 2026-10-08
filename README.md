@@ -7,5 +7,5 @@ Este projeto faz a conversão de uma imagem para hexadecimal e faz sua projeçã
 
 Projeto feito em Python e numa placa Respbarry
 
-Link do vídeo demonstrativo no YouTube: https://youtu.be/XhMHBtLyfTQ
-Link do projeto no Wokwi: https://wokwi.com/projects/477272356634168321
+- Link do vídeo demonstrativo no YouTube: https://youtu.be/XhMHBtLyfTQ
+- Link do projeto no Wokwi: https://wokwi.com/projects/477272356634168321
