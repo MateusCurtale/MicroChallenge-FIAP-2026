@@ -6,3 +6,5 @@
 Este projeto faz a conversão de uma imagem para hexadecimal e faz sua projeção num visor
 
 Projeto feito em Python e numa placa Respbarry
+
+Link do vídeo no YouTube: https://youtu.be/XhMHBtLyfTQ
